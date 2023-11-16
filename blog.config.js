@@ -1,6 +1,6 @@
 const BLOG = {
   title: '码不能停',
-  author: '',cqdeng
+  author: 'cqdeng',
   email: '312062001@qq.com',
   link: 'https://nobelium.vercel.app',
   description: '个人笔记',
